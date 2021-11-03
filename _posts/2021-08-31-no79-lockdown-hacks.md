@@ -8,7 +8,7 @@ meetupUrl: https://www.meetup.com/de-DE/Berlin-Hack-and-Tell/events/280321478/
 ---
 
 
-* Subway trainer
+* [Subway trainer](http://jzilg.de/subway-trainer/) by [jzilg](https://github.com/jzilg)
 * [serenissimo vaccine bot](https://github.com/vrde/serenissimo) - **Hack of the Month**
 * Vietname by [strathausen](https://github.com/strathausen)
 * JupyterCpp - **Hack of the Month**
